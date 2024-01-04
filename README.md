@@ -14,7 +14,7 @@ Password : admin2
 Username : pimpinan
 Password : pimpinan
 
-Dan untuk user atau pengguna, username dan password bisa dibuat waktu mengakses halaman login dengan menu pilihan daftar, dan dilanjutkan dengan dafar akun. Ketika daftar aku  telah selesai dibuat, user langsung bisa login.
+Dan untuk user atau pengguna, username dan password bisa dibuat waktu mengakses halaman login dengan menu pilihan daftar, dan dilanjutkan dengan dafar akun. Ketika daftar akun telah selesai dibuat, user langsung bisa login.
 Website ini dibuat dengan ketentuan tugas yang telah di intruksikan oleh Dosen Pengampu Mata Kuliah Pemrograman Web 2, Ibu Utami Mirzani Putri, M.Kom.
 
 Website ini masih jauh dari kata sempurna. Akhir kata saya mengucapkan terimakasih.
